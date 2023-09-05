@@ -4,7 +4,7 @@
 
 ## 👑클럽장 19학번 이승준👑
 __📞연락처: 01095753502__ 
-<img src="https://img.shields.io/badge/KaKaoTalk-FFCD00?style=for-the-badge&logo=전화번호&logoColor=white">
+<img src="https://img.shields.io/badge/-카카오톡ID-FFCD00?style=for-the-badge&logo=KaKaoTalk&logoColor=white">
 
 - 1️⃣ 학생회 누구나 참여가능합니다!
 - 2️⃣ 
