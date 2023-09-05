@@ -8,7 +8,7 @@
   - 클럽활동은 전적으로 모두 자유입니다. 
  
 
-
+</br></br></br>
 ### 📌클럽 개설방법 
 [🧡CLICK](https://github.com/inha-csesc/Club/tree/main/TEMPLATE/HOWTOMAKECLUB)
 
