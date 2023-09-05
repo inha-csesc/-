@@ -1,14 +1,18 @@
 # 😀클럽활동 README 템플릿입니다!😀 <-- 이 부분을 지우고 사용하세요!
 
-# (이모지 자유)🎱 학생회 당구 클럽 공지글
+# (이모지 자유)🎱 학생회 XX 클럽 공지글
 
-## 👑클럽장 19학번 이승준👑
+## 👑클럽장 XX학번 -이름-👑
 ### 📱연락처
 __📞클럽장 전화번호를 쓰세요__  
 
-<img src="https://img.shields.io/badge/-카카오톡ID-FFCD00?style=for-the-badge&logo=KaKaoTalk&logoColor=white">
+<img src="https://img.shields.io/badge/-카카오톡ID을 쓰세요-FFCD00?style=for-the-badge&logo=KaKaoTalk&logoColor=white">
 
-- 1️⃣ 학생회 누구나 참여가능합니다!
-- 2️⃣ 
+</br></br></br></br>
+# XX클럽 모집안내
+- 👉 학생회 누구나 참여가능합니다!
+- 👉 XX클럽에 가입하고싶으시다면 클럽장 XX에게 연락 남겨주세요!
+- 👉 자세한 공지 및 활동은 카카오톡으로 진행하고 있습니다!
+- 👉 XX클럽 활동사진이 궁금하다면  👆여길 누르세요!
 
 
