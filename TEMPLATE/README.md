@@ -18,9 +18,12 @@
 ## 📸XX 클럽 활동사진 링크 [👆]( https://github.com/inha-csesc/Club/edit/main/TEMPLATE)(클릭하세요)
 </br></br></br></br>
 
-### 📌XX클럽 회칙📌
+### 📌XX클럽 회칙
 - 자유롭게
 - 쓰시면
 - 됩니다
 - !
+</br></br></br></br>
 
+
+### 📌 README 관련 문의 및 클럽 신규 창설 문의는 학생회 운영진 연락처로 문의 부탁드립니다!
