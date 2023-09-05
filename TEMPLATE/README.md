@@ -4,9 +4,9 @@
 </br></br></br></br>
 
 ## 👑클럽장 소개👑
-- XX학번 -이름- 
-- 📞클럽장 전화번호를 쓰세요
--  카카오톡 <img src="https://img.shields.io/badge/-카카오톡ID을 쓰세요-FFCD00?style=for-the-badge&logo=KaKaoTalk&logoColor=white">
+- 23학번 홍길동
+- 📞010-1234-5678
+-   <img src="https://img.shields.io/badge/-INSERT ID-FFCD00?style=for-the-badge&logo=KaKaoTalk&logoColor=white">
 
 </br></br></br></br>
 ## XX클럽 모집안내
