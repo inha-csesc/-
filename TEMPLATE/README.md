@@ -3,7 +3,7 @@
 # (이모지 자유)🎱 학생회 XX 클럽 공지글
 
 ## 👑클럽장 XX학번 -이름-👑
-__ 📱연락처 __
+📱연락처 </br>
 __📞클럽장 전화번호를 쓰세요__  
 
 <img src="https://img.shields.io/badge/-카카오톡ID을 쓰세요-FFCD00?style=for-the-badge&logo=KaKaoTalk&logoColor=white">
