@@ -10,6 +10,4 @@
 
 
 ### 📌클럽 개설방법 
-
--
-   
+[🧡CLICK](https://github.com/inha-csesc/Club/tree/main/TEMPLATE/HOWTOMAKECLUB)
