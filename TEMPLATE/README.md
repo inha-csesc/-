@@ -4,11 +4,9 @@
 </br></br></br></br>
 
 ## 👑클럽장 소개👑
-XX학번 -이름-
-📱연락처 </br>
-__📞클럽장 전화번호를 쓰세요__  
-
-<img src="https://img.shields.io/badge/-카카오톡ID을 쓰세요-FFCD00?style=for-the-badge&logo=KaKaoTalk&logoColor=white">
+- XX학번 -이름- 
+- 📞클럽장 전화번호를 쓰세요
+-  카카오톡 <img src="https://img.shields.io/badge/-카카오톡ID을 쓰세요-FFCD00?style=for-the-badge&logo=KaKaoTalk&logoColor=white">
 
 </br></br></br></br>
 ## XX클럽 모집안내
