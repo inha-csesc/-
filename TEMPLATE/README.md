@@ -2,8 +2,9 @@
 
 # (이모지 자유)🎱 학생회 당구 클럽 공지글
 
-## 클럽장 19학번 이승준
-__연락처:01095753502__
+## 👑클럽장 19학번 이승준👑
+__📞연락처: 01095753502__
+<img src="https://img.shields.io/badge/-kakaotalk-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
 
 - 1️⃣ 학생회 누구나 참여가능합니다!
 - 2️⃣ 
